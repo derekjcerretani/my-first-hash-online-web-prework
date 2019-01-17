@@ -48,4 +48,3 @@ end
 def my_hash
   my_array = {food: "taco"}
 end
-
