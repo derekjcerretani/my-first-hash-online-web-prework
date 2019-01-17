@@ -44,3 +44,8 @@ def adding
  shipping_manifest
 end
 =end
+
+def my_hash
+  my_array = {food: "taco"}
+end
+
